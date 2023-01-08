@@ -17,6 +17,7 @@ public class TesteDois {
 		System.out.println("Fábio Rogério");
 		System.out.println("40");
 		System.out.println("engfabiorogeriomoraes@gmail.com");
+		System.out.println("Estudante de Programação");
 	}
 
 }
